@@ -8,6 +8,6 @@ export default class DragonTranslation extends WordPressMangastream {
         super.label = 'DragonTranslation';
         this.tags = [ 'webtoon', 'hentai', 'spanish' ];
         this.url = 'https://dragontranslation.com';
-        this.path = '/manga/list-mode/';
+        this.path = '/manga/';
     }
 }
